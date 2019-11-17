@@ -5,7 +5,3 @@
 ```
  python3 hello.py
 ```
-
-```python
-x = input('enter your name')
-```
