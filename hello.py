@@ -1,4 +1,4 @@
-#author Dapinder Singh
+#author Dapinder Singh-sudo
 t_atn=input("Enter total attendence: ")
 a_atn=input("Enter classes you have attended: ")
 tclas=float(t_atn)
